@@ -3,4 +3,4 @@
 #首页 page1.html
 #学习 page2.html
 #放松 page3.html
-#将咯 page4.html
+#奖励 page4.html
